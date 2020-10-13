@@ -1,0 +1,65 @@
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Metrics Window ends
+Network Name:STANDARD
+Metrics XML Reading Start:-----
+Metrics XML Reading End:-----
+Empty treview
+1720.0
+Width 842.8 Height 488.79999999999995
+Clicked on Event Trace
+cmd /c start TraceReader.exe "C:\Users\User\AppData\Local\Temp\NetSim/std12.2.26_x64\Event Trace.csv" 0

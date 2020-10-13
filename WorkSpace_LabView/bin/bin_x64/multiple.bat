@@ -1,0 +1,3 @@
+START NetSimCore.exe -apppath "C:\Program Files\NetSim\Standard_v12_2_26\bin\bin_x64" -iopath "C:\Program Files\NetSim\Standard_v12_2_26\Docs\Sample_Configuration\WSN\WSN-Static-Route\Sample-1" -license 5053@10.10.10.1
+pause
+START NetSimCore.exe -apppath "C:\Users\Vishal Bhat\Documents\NetSim_12.2.26_64_std_default\bin\bin_x64" -iopath "C:\Program Files\NetSim\Standard_v12_2_26\Docs\Sample_Configuration\WSN\WSN-Static-Route\Sample-2" -license 5053@10.10.10.1
